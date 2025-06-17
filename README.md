@@ -1,16 +1,43 @@
-# waterreminder
+# Su Hatırlatıcısı 💧
 
-A new Flutter project.
+Flutter ile geliştirilmiş kişisel su takip ve hatırlatma uygulaması. Günlük su içme hedefi belirlemenizi, içilen su miktarını takip etmenizi ve sürenizi yönetmenizi sağlar.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Kayıt olma ve giriş yapma
+- 💧 Günlük en az 4Litre su içmek lazım
+- 🎉 Hedef tamamlandığında otomatik tebrik bildirimi
+- 🌗 Tema değiştirme (açık/karanlık mod)
+- 🖼 Arka plan görselleri ile modern ve sade tasarım
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧱 Yapı
+
+- `main.dart`: Uygulama başlatıcı
+- `login_screen.dart`: Giriş ekranı
+- `register_screen.dart`: Kayıt ekranı
+- `home_screen.dart`: Ana su takibi ve sayaç ekranı
+
+---
+
+## 🕹 Kullanım
+
+1. Uygulamayı aç
+2. Kayıt olarak profil oluştur
+4. Su içtikçe `+0.25 L içtim` butonuna bas
+6. Hedef tamamlandığında uygulama seni kutlar!
+
+---
+
+## 💾 Veritabanı
+
+Veritabanı `Supabase` kullandık.
+
+
+## 📄 Lisans
+
+Bu proje tamamen bize aittir. Dilediğin gibi kullan, geliştir, paylaş. Kodun ruhu özgürdür.
+
